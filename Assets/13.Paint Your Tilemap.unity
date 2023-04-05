@@ -1904,12 +1904,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa2f68a15d7fc864fa8feb2f1c74ce4f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0
-  vertical: 0
-  changeTime: 3
-  rigidbody2D: {fileID: 0}
-  timer: 0
-  direction: 1
 --- !u!61 &1018143072
 BoxCollider2D:
   m_ObjectHideFlags: 0
