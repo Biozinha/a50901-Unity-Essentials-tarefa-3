@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1134131419463439016}
   - component: {fileID: 6437650595286567516}
   - component: {fileID: 907764549043807929}
+  - component: {fileID: 1588496832331155502}
   m_Layer: 0
   m_Name: inimigo
   m_TagString: Untagged
@@ -105,6 +106,22 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1588496832331155502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2163093612822869400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa2f68a15d7fc864fa8feb2f1c74ce4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 0
+  vertical: 0
+  changeTime: 3
+  smokeEffect: {fileID: 1791956219775995517}
 --- !u!1001 &4116683022257577820
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -165,5 +182,10 @@ PrefabInstance:
 --- !u!4 &1791956219775995506 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2449724919467446574, guid: 9bd55efaead25da408a8528800bc35be, type: 3}
+  m_PrefabInstance: {fileID: 4116683022257577820}
+  m_PrefabAsset: {fileID: 0}
+--- !u!198 &1791956219775995517 stripped
+ParticleSystem:
+  m_CorrespondingSourceObject: {fileID: 2449724919467446561, guid: 9bd55efaead25da408a8528800bc35be, type: 3}
   m_PrefabInstance: {fileID: 4116683022257577820}
   m_PrefabAsset: {fileID: 0}
