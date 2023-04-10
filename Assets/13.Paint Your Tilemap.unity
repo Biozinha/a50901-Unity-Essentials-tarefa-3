@@ -20214,6 +20214,71 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!1001 &5649187532181393968
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1670909715385355040, guid: 7b89bd2ebab83b5438d52df6947a6125, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 1670909715385355040, guid: 7b89bd2ebab83b5438d52df6947a6125, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.2741
+      objectReference: {fileID: 0}
+    - target: {fileID: 1670909715385355040, guid: 7b89bd2ebab83b5438d52df6947a6125, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 10.19
+      objectReference: {fileID: 0}
+    - target: {fileID: 1670909715385355040, guid: 7b89bd2ebab83b5438d52df6947a6125, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1670909715385355040, guid: 7b89bd2ebab83b5438d52df6947a6125, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1670909715385355040, guid: 7b89bd2ebab83b5438d52df6947a6125, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1670909715385355040, guid: 7b89bd2ebab83b5438d52df6947a6125, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1670909715385355040, guid: 7b89bd2ebab83b5438d52df6947a6125, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1670909715385355040, guid: 7b89bd2ebab83b5438d52df6947a6125, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1670909715385355040, guid: 7b89bd2ebab83b5438d52df6947a6125, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1670909715385355040, guid: 7b89bd2ebab83b5438d52df6947a6125, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6254079466476974434, guid: 7b89bd2ebab83b5438d52df6947a6125, type: 3}
+      propertyPath: m_Size.y
+      value: 0.67030513
+      objectReference: {fileID: 0}
+    - target: {fileID: 6254079466476974434, guid: 7b89bd2ebab83b5438d52df6947a6125, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.45618528
+      objectReference: {fileID: 0}
+    - target: {fileID: 6769076380723090568, guid: 7b89bd2ebab83b5438d52df6947a6125, type: 3}
+      propertyPath: m_Name
+      value: JambiIdle1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7b89bd2ebab83b5438d52df6947a6125, type: 3}
 --- !u!1001 &7288671156684009355
 PrefabInstance:
   m_ObjectHideFlags: 0
